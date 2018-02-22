@@ -1,4 +1,7 @@
- 
-learning Selenium 
-https://github.com/blky/seleniumPZ/wiki
+Java
+
+
+selenium 
+https://github.com/blky/Java-and-Selenium-/wiki
+
  
